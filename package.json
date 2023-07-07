@@ -1,0 +1,65 @@
+{
+  "name": "dummy_user",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.10.5",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.3.0",
+    "formik": "^2.4.2",
+    "highcharts": "^11.0.0",
+    "highcharts-react-official": "^3.2.0",
+    "jquery": "^3.6.0",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.39",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.4",
+    "react-cookie": "^4.0.3",
+    "react-dom": "^17.0.2",
+    "react-highcharts": "^16.1.0",
+    "react-hook-form": "^7.44.3",
+    "react-icons": "^4.9.0",
+    "react-paginate": "^7.1.3",
+    "react-redux": "^7.2.4",
+    "react-router-dom": "^6.2.2",
+    "react-scripts": "^5.0.1",
+    "react-slick": "^0.29.0",
+    "react-spinners": "^0.13.8",
+    "react-toastify": "^8.0.3",
+    "react-tooltip": "^5.10.0",
+    "redux": "^4.1.0",
+    "redux-thunk": "^2.3.0",
+    "sweetalert2": "^11.1.9",
+    "typeface-roboto": "^1.1.13",
+    "web-vitals": "^1.0.1",
+    "yup": "^1.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "set \"GENERATE_SOURCEMAP=false\" && react-scripts --openssl-legacy-provider build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

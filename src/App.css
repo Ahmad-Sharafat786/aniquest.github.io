@@ -1,0 +1,143 @@
+.App {
+  text-align: center;
+}
+
+::-webkit-scrollbar {
+  width: 7px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgb(255, 255, 255);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--primary-color);
+  border-radius: 25px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--primary-color);
+}
+
+
+
+.error-message{
+  margin-top: 5px;
+  color: red;
+  text-transform:capitalize;
+  
+}
+.register{
+  margin-bottom: 20px;
+}
+.ui.form{
+  margin-top: 20px;
+}
+.bg-img-form{
+  background-image: url('../src/assets/Assets/d2.avif');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  /* overflow: hidden; */
+}
+.images-array-size{
+  height: 200px !important;
+  width: 200px !important;
+}
+.main-multiple-image-class section {
+  padding: 2rem 0;
+}
+
+.main-multiple-image-class label {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px dotted black;
+  border-radius: 20px;
+  width: 10rem;
+  height: 10rem;
+  cursor: pointer;
+  font-size: large;
+}
+
+.main-multiple-image-class label span {
+  font-weight: lighter;
+  font-size: small;
+  padding-top: 0.5rem;
+}
+.main-multiple-image-class input{
+  display: none;
+}
+
+
+.main-multiple-image-class img {
+  padding: 0;
+  margin: 0;
+}
+
+.main-multiple-image-class .images {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-multiple-image-class .image {
+  margin: 1rem 0.5rem;
+  position: relative;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;
+}
+
+.main-multiple-image-class .image button {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  cursor: pointer;
+  border: none;
+  color: white;
+  background-color: lightcoral;
+}
+
+.main-multiple-image-class .image button:hover {
+  background-color: red;
+}
+
+.main-multiple-image-class .image p {
+  padding: 0 0.5rem;
+  margin: 0;
+}
+
+.upload-btn {
+  cursor: pointer;
+  display: block;
+  margin: 0 auto;
+  border: none;
+  border-radius: 20px;
+  width: 10rem;
+  height: 3rem;
+  color: white;
+  background-color: green;
+}
+
+label:hover,
+.upload-btn:hover {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px,
+    rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+
+.error {
+  text-align: center;
+}
+
+.error span {
+  color: red;
+}
+@media screen and (max-width: 768px) {
+  .custom-spacing{
+    margin-top: 30rem !important;
+  }
+}

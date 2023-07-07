@@ -1,0 +1,588 @@
+@media (min-width: 1400px) {
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl,
+  .container-xxl {
+    max-width: 1300px !important;
+  }
+}
+
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+  width: 90% !important;
+}
+@media screen and (max-width: 1200px) {
+  .signup{
+    margin-bottom: 1rem;
+  }
+  .logout-icon{
+    margin-bottom: 1rem;
+  }
+  .main-greatstory-class {
+    margin-top: 0rem !important;
+}
+  .about-card{
+    top: 38rem;
+  }
+  .main-card-2 {
+    top: 12.5rem;
+  }
+  .main-content {
+    font-size: 3rem;
+  }
+  .anime-img {
+    height: 80%;
+  }
+  .withinreach {
+    letter-spacing: 0.5px;
+    font-size: 1.9rem;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .custom-responsive{
+    margin-top: 7rem;
+  }
+  .need-row {
+     padding-top: 0rem;
+}
+.responsive-spacing{
+  margin-top: 1.9rem;
+}
+  .signup{
+    margin-bottom: 0rem !important;
+  }
+  .logout-icon{
+    margin-bottom: 0rem !important;
+  }
+  .Main-card-body{
+    padding-left: 0rem;
+    padding-right: 0rem;
+  }
+  .home-icon{
+    margin-top: 3rem;
+  }
+  .main-what-we-do {
+    margin-top: 17rem;
+}
+  .valuesTextstyling {
+   
+    padding-bottom: 54rem;
+  }
+  .main-what-we-do h1.what-fontsize {
+    font-size: 4.6rem !important;
+  }
+  .google-button {
+    margin-top: 1rem;
+    margin-left: 0rem;
+  }
+  .email-button {
+    margin-top: 3rem;
+  }
+}
+@media screen and (max-width: 992px) {
+
+  .service-column {
+    display: flex;
+    justify-content: center;
+  }
+  .signup-division{
+    display: flex !important;
+    justify-content: center !important;
+
+  }
+.Our-mission {
+ 
+    font-size: 3rem;
+}
+  .Aniquest-user-friendly {
+ 
+    font-size: 14px;
+    line-height: 23px;
+}
+  .main-values-class .para-line-height {
+    line-height: 20px;
+    font-size: 14px;
+  }
+  .main-card-2 {
+    top: 20rem;
+  }
+
+  .Navbar-Spacing {
+    margin-left: 1rem;
+  }
+  .try-card-position {
+    position: absolute;
+    top: 83%;
+  }
+
+  .within-reach-position {
+    position: absolute;
+    top: 91%;
+  }
+  .try-free-spacing {
+    padding: 0px 40px 0px 40px !important;
+  }
+ 
+  /* .footer-spacing {                   *footer spacing in about change by me if conflicts with first page then uncomment it
+    padding-top: 60rem;
+  } */
+  .Reviews-Spacing {
+    padding-top: 7.5rem;
+  }
+
+  .specialsign-none {
+    display: none;
+  }
+  .bgImg {
+    height: 950px;
+  }
+  .card-gradient-main {
+    margin-top: 20px;
+  }
+  .quality-cards {
+    margin-bottom: 20px;
+  }
+  .tools-specific-spacing {
+    margin-top: 70px !important;
+  }
+}
+@media screen and (max-width: 576px) {
+ 
+  .Reviews-Spacing {
+   
+    padding-top: 4.5rem !important;
+}
+  .digiSlider-bg {
+    padding-bottom: 8rem;
+ 
+}
+  .digislider-text {
+  
+    font-size: 12px;
+}
+  .slider-card-spacing {
+    padding: 9px 15px 0px 15px !important;
+}
+  .text-pad-main .submit-btn {
+   
+    padding: 6px 13px !important;
+  }
+  input::placeholder {
+   
+  font-weight: 400 !important;
+    font-size: 12px !important;
+  }
+  .box-shadow-class{
+    margin-top: 1rem;
+  }
+  .main-card-2 {
+    top: 13rem !important;
+}
+  .Our-mission {
+
+    font-size: 1.8rem !important;
+}
+  .about-card {
+    top: 38rem;
+    position: absolute !important;
+}
+  .main-greatstory-class {
+    margin-top: 0rem !important;
+}
+  .what-fontsize{
+    margin-top: 3rem;
+  }
+  .main-what-we-do h1.what-fontsize {
+    font-size: 3.3rem !important;
+  }
+  .what-we-do {
+    font-size: 12px;
+  }
+  .Reviews-Spacing {
+    font-size: 1.5rem !important;
+  }
+  .best-tool {
+    font-size: 1.2rem !important;
+  }
+  .fantasy-paragraph {
+    padding-left: 1rem !important;
+  }
+  .Footer-fontsize {
+    font-size: 1.2rem;
+  }
+  .footer-sizing {
+    font-size: 14px;
+  }
+
+  .best-tool-spacing {
+    margin-top: 7rem;
+  }
+  .Anime-Spacing {
+    margin-top: 4rem;
+  }
+  .quality-card-spacing {
+    margin-top: 4rem;
+  }
+  .anime-img {
+    margin-left: 0.5rem !important;
+  }
+  .main-quality-cards .spacing-class {
+    margin-top: 4rem;
+  }
+
+  .quality-fontsize {
+    font-size: 2.2rem;
+  }
+  .anime2-fontsize {
+    font-size: 2.2rem;
+  }
+  .fantasy {
+    font-size: 2rem;
+  }
+  .fantasy-AI {
+    padding-top: 3rem;
+  }
+  .client-size {
+    font-size: 2.6rem;
+  }
+
+  .happy-accuracytext {
+    font-size: 14px;
+  }
+
+  .happy-accuracy {
+    text-align: center;
+  }
+  .digislider-card-height {
+    margin-left: 1.5rem;
+  }
+  .try-it {
+    font-size: 2.2rem !important;
+  }
+  .test-quality-content {
+    font-size: 14px;
+  }
+  .best-tool-specific {
+    text-align: center;
+  }
+  .happy-accuracy {
+    padding-top: 0rem !important;
+  }
+  .fantasy-height {
+    height: 1100px !important;
+  }
+  .reach-paragraph {
+    font-size: 14px;
+  }
+  .email-button,
+  .google-button {
+    padding: 8px 30px;
+  }
+
+  .anime-specific-spacing {
+    padding: 0px 20px !important;
+  }
+  .anime-fontsize {
+    font-size: 2.2rem;
+  }
+  .sign-google {
+    margin-top: 20px;
+  }
+  .main-navbar {
+    margin-top: 0px;
+  }
+  .main-content {
+    line-height: 35px;
+    font-size: 2rem;
+  }
+  .special-spacing {
+    margin-top: 30px;
+  }
+}
+@media screen and (max-width: 768px) {
+
+  .main-card-body-spacing {
+    padding: 0rem 0rem 12rem 0rem;
+}
+  .forward-icon-div {
+    position: absolute;
+    bottom: 80px;
+}
+  .login-btn-spacing{
+    margin-left: 1rem ;
+  }
+  .navbar-spacing{
+    margin-left: 0px;
+  }
+  .text-pad-card-shadow{
+    width: auto !important;
+  }
+ .textpad-card{
+  margin-top: 1.7rem;
+ }
+  .nav-link{
+    color: white !important;
+  }
+  .signup-now {
+    margin-left: 70px;
+    font-size: 14px;
+    padding: 18px 40px;
+  
+ 
+}
+.logout-icon{
+  color: #ca3fd6;
+}
+  .service-class {
+    font-size: 25px;
+}
+  .start-faster {
+    font-size: 2rem;
+}
+  .Our-mission {
+
+    font-size: 2.5rem;
+}
+  .para-line-height{
+    padding: 0rem 0rem;
+    font-size: 12px !important;
+  }
+  .main-greatstory-class {
+    margin-top: 10rem;
+}
+  .main-values-class .main-card {
+   
+     padding: 0rem;
+}
+
+  /* .main-values2-class .home-icon {
+    margin-top: 30px;
+    height: 80%;
+    width: 12%;
+  } */
+
+  .what-we-do {
+    font-size: 14px;
+  }
+  .main-greatstory-class .great-story-padding {
+    padding: 0rem 2rem;
+  }
+  .main-greatstory-class .great-story-heading {
+    font-size: 2.5rem;
+  }
+  .about-card {
+    margin-top: 6rem;
+  }
+  .frame-img {
+    width: 100%;
+  }
+  .signup {
+    margin-left: 5px;
+  }
+  #basic-navbar-nav {
+    padding-bottom: 30px;
+    background: black;
+  }
+  /* .try-card-position {
+    position: absolute;
+    top: 81%;
+  } */
+  .best-tool-specific {
+    display: block;
+  }
+  .Navbar-Spacing {
+    margin-bottom: 0px;
+    font-size: 13px;
+  }
+
+  .bgImg {
+    height: 1150px;
+  }
+
+  .Navbar-Spacing {
+    margin-left: 1rem !important;
+  }
+  .free-trial {
+    margin-bottom: 20px;
+  }
+  .main-row {
+    margin-top: 25px !important;
+  }
+  .Reviews-Spacing {
+    font-size: 2.5rem;
+    padding-top: 4.5rem;
+  }
+  .fantasy-height {
+    height: 800px !important;
+  }
+
+  .reach-paragraph {
+    margin-top: 0px !important;
+  }
+  .withinreach {
+    display: flex;
+    justify-content: center;
+  }
+  .best-tool {
+    font-size: 1.7rem;
+  }
+  .try-free-spacing {
+    padding: 35px 0px 0px 35px !important;
+  }
+  .email-button {
+    margin-top: 2rem;
+  }
+  .google-button {
+    margin-top: 2rem;
+  }
+  .try-it {
+    font-size: 2.7rem;
+    margin-top: 0px !important;
+  }
+  .top-spacing {
+    padding: 0rem;
+  }
+  .reach-paragraph {
+    margin-top: 0px;
+  }
+  .withinreach {
+    font-size: 1.4rem;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .best-tool {
+    font-size: 1.2rem !important;
+  }
+}
+@media screen and (max-width: 425px) {
+  .text-pad-main .accordion-body{
+    padding: 0px !important;
+  }
+  .signup { color: white;
+    padding: 10px 10px;
+  }
+  .signup-now {
+ 
+    font-size: 14px;
+    padding: 18px 40px;
+}
+  .service-class {
+    font-size: 20px;
+}
+  .main-what-we-do h1.what-fontsize {
+    font-size: 2.5rem !important;
+}
+  .main-card {
+   
+    top: 19.8rem;
+}
+  .Aniquest-user-friendly {
+  
+    font-size: 14px;
+   
+}
+.strong-company {
+  font-size: 1.3rem;
+}
+  .valuesTextstyling {
+
+    padding-bottom: 75rem !important;
+  }
+  .tools-specific-spacing {
+    margin-top: 25px !important;
+  }
+  .img-width {
+    width: auto !important;
+  }
+  .askfm {
+    margin-left: 35px;
+  }
+  .slick-dots li button:before {
+    margin-top: 0px;
+  }
+  .withinreach {
+    padding-left: 13px;
+    margin-top: 3rem;
+  }
+  .footer-spacing {
+    /* padding-top: 73rem; */
+    padding-top: 16rem;
+  }
+  .free-trial {
+    margin-bottom: 10px;
+  }
+  .main-content {
+    font-size: 1.6rem;
+  }
+  .best-tool-specific {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  .try-free-spacing {
+    padding: 35px 0px 0px 35px !important;
+  }
+
+  .reach-spacing {
+    padding: 0px !important;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .withinreach {
+    margin-top: 1.5rem;
+  }
+  .email-button {
+    font-size: 13px;
+  }
+  .google-button {
+    font-size: 13px;
+  }
+  .try-paragraph {
+    margin-top: 0px;
+    font-weight: 500;
+    font-size: 14px;
+  }
+}
+
+/* Aboutpage mediaquery */
+@media screen and (max-width: 1024px) {
+  .main-what-we-do h1.what-fontsize {
+    font-size: 9rem;
+  }
+}
+@media screen and (max-width: 1400px) {
+  
+  .main-what-we-do h1.what-fontsize {
+    font-size: 8rem;
+    font-weight: 700;
+  }
+}
+@media screen and (max-width: 505px) {
+  .valuesTextstyling {
+    
+    padding-bottom: 60rem;
+}
+}
+
+@media screen and (max-width: 445px) {
+  .para-line-height {
+ 
+    font-size: 11px !important;
+}
+.main-values-class .para-line-height {
+  line-height: 18px;
+  
+}
+}
+@media screen and (max-width: 1300px) {
+   .about-card{
+    width: 70%;
+   }
+   .main-greatstory-class {
+    margin-top: 20rem;
+}
+}
