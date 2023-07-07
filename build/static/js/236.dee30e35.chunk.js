@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdummy_user=self.webpackChunkdummy_user||[]).push([[236],{8236:function(u,e,n){n.r(e),n.d(e,{default:function(){return s}});n(7313);var r=n(6417);function s(){return(0,r.jsx)("div",{children:(0,r.jsx)("h2",{children:"No Page Found."})})}}}]);
