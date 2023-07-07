@@ -3,7 +3,7 @@ import ResetPassword from "./ResetPassword";
 import EnterCode from "./EnterCode";
 import NewPassword from "./NewPassword";
 
-const index = () => {
+const Index = () => {
   const [currentView, setCurrentView] = useState(1);
   return (
     <div>
@@ -14,4 +14,4 @@ const index = () => {
   );
 };
 
-export default index;
+export default Index;
